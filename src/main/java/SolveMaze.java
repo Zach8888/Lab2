@@ -21,7 +21,7 @@ public class SolveMaze {
          * Create a new 10 x 10 maze. Feel free to change these values.
          */
         Maze maze = new Maze(10, 10);
-
+//
         /*
          * Pick (0, 0), the bottom left corner, as the starting point.
          * Put the end in the top right corner.
